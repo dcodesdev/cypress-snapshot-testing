@@ -1,0 +1,7 @@
+exports[`Element snapshot tests > Should match the snapshot of the element #0`] = `
+<h1
+  class="text-size-48 font-bold text-black text-center leading-none text-shadow md:w-full leading-height-70 mx-auto smtablet:text-size-30 smtablet:leading-height-42"
+>
+  Simple Form Demo
+</h1>
+`;
